@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TEENODER
-- Student Of Class 10th
+- Student Of Class 11th
 - Passionate Coder
 - Web Lover
 - First Love :- Python
